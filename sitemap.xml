@@ -1,42 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <!-- 主页 -->
     <url>
         <loc>https://wu1064442747.github.io/pdf-free-download/</loc>
         <lastmod>2024-03-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
-    </url>
-
-    <!-- PDF阅读器部分 -->
-    <url>
-        <loc>https://wu1064442747.github.io/pdf-free-download/#pdf-readers</loc>
-        <lastmod>2024-03-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- PDF编辑与转换部分 -->
-    <url>
-        <loc>https://wu1064442747.github.io/pdf-free-download/#pdf-editors</loc>
-        <lastmod>2024-03-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- PDF软件品牌部分 -->
-    <url>
-        <loc>https://wu1064442747.github.io/pdf-free-download/#pdf-brands</loc>
-        <lastmod>2024-03-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- PDF电子书与资源部分 -->
-    <url>
-        <loc>https://wu1064442747.github.io/pdf-free-download/#pdf-resources</loc>
-        <lastmod>2024-03-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
     </url>
 </urlset> 
